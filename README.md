@@ -26,7 +26,7 @@ The objective of this project is to:
 - CSV Files
 - GitHub
 
----
+--
 
 ## 📂 Database Structure
 
@@ -133,16 +133,6 @@ Online-Bookstore-SQL-Project
 ├── Orders.csv
 └── README.md
 ```
-
----
-
-## ▶️ How to Run the Project
-
-1. Create a PostgreSQL database.
-2. Execute the SQL script.
-3. Import the CSV files.
-4. Run the SQL queries.
-5. Analyze the generated results.
 
 ---
 
